@@ -53,5 +53,15 @@
       "name": "Pintrest",
       "icon": "/apps/pintrest.png",
       "url": "https://www.pinterest.com/today"
+    },
+    {
+      "name": "GeForce Now",
+      "icon": "/apps/geforcenow.png",
+      "url": "https://play.geforcenow.com/"
+    },
+    {
+      "name": "Chess.com",
+      "icon": "/apps/chess.png",
+      "url": "https://www.chess.com/"
     }
 ]
