@@ -3,5 +3,20 @@
       "name": "2048",
       "icon": "/files/2048/meta/og_image.png",
       "url": "/files/2048/index.html"
+    },
+    {
+      "name": "1v1 lol",
+      "icon": "/files/1v1lol/splash.png",
+      "url": "/files/1v1lol/index.html"
+    },
+    {
+      "name": "Among Us",
+      "icon": "/files/among-us/red.png",
+      "url": "/files/among-us/index.html"
+    },
+    {
+      "name": "Basketball Stars",
+      "icon": "/files/basketball-stars/assets/images/basketball-stars.png",
+      "url": "/files/basketball-stars/index.html"
     }
 ]
