@@ -18,5 +18,30 @@
       "name": "Basketball Stars",
       "icon": "/files/basketball-stars/assets/images/basketball-stars.png",
       "url": "/files/basketball-stars/index.html"
+    },
+    {
+      "name": "Bitlife",
+      "icon": "/files/bitlife/splash.png",
+      "url": "/files/bitlife/index.html"
+    },
+    {
+      "name": "CirclO",
+      "icon": "/files/circlo/img/download.png",
+      "url": "/files/circlo/index.html"
+    },
+    {
+      "name": "Cluster Rush",
+      "icon": "/files/cluster-rush/icon.jpg",
+      "url": "/files/cluster-rush/index.html"
+    },
+    {
+      "name": "Draw the Hill",
+      "icon": "/files/draw-the-hill/icon/icon-512.png",
+      "url": "/files/draw-the-hill/index.html"
+    },
+    {
+      "name": "Drive Mad",
+      "icon": "/files/drive-mad/logo.jpg",
+      "url": "/files/drive-mad/index.html"
     }
 ]
