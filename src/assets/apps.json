@@ -63,5 +63,10 @@
       "name": "Chess.com",
       "icon": "/apps/chess.png",
       "url": "https://www.chess.com/"
+    },
+    {
+      "name": "Xbox Cloud Gaming",
+      "icon": "/apps/cloudgaming.png",
+      "url": "https://www.xbox.com/en-us/play"
     }
 ]
