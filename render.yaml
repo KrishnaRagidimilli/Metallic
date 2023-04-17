@@ -1,0 +1,6 @@
+
+  services:
+  - type: web
+    name: metallic
+    env: docker
+    plan: free
