@@ -68,5 +68,10 @@
       "name": "Chess.com",
       "icon": "/apps/chess.png",
       "url": "https://www.chess.com/"
+    },
+    {
+      "name": "Chat GPT",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png",
+      "url": "https://learn.irepel.cf/"
     }
 ]
