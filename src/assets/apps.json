@@ -72,6 +72,11 @@
     {
       "name": "Chat GPT",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png",
-      "url": "https://learn.irepel.cf/"
+      "url": "https://essay.goguardian.cloud/"
+    },
+    {
+      "name": "Epic Games",
+      "icon": "https://cdn2.unrealengine.com/Epic+Games+Node%2Fxlarge_whitetext_blackback_epiclogo_504x512_1529964470588-503x512-ac795e81c54b27aaa2e196456dd307bfe4ca3ca4.jpg",
+      "url": "https://store.epicgames.com/en-US/"
     }
 ]
